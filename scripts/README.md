@@ -84,7 +84,7 @@ output_filename = "Expected.csv"  # The desired output file
 
 2. Run the script:
 
-```py
+```bash
 python csv-formatter.py
 ```
 
@@ -156,7 +156,7 @@ output_json = "Expected.json"  # The desired JSON output file
 
 2. Run the script:
 
-```py
+```bash
 python csv-to-json.py
 ```
 
