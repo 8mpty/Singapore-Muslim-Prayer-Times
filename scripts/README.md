@@ -2,9 +2,9 @@
 
 This repository contains two Python scripts for processing prayer times data:
 
-- ```csv-formatter.py``` - Formats raw prayer times CSV data into a standardized format
+- [```csv-formatter.py```](#csv-formatterpy) - Formats raw prayer times CSV data into a standardized format
 
-- ```csv-to-json.py``` - Converts formatted CSV data into organized JSON structure
+- [```csv-to-json.py```](#csv-to-jsonpy) - Converts formatted CSV data into organized JSON structure
 
 # Prerequisites
 
