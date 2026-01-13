@@ -1,0 +1,4409 @@
+{
+  "year": 2026,
+  "prayer_times": {
+    "January": [
+      {
+        "date": "2026-01-01",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:08",
+          "zohor": "01:10",
+          "asar": "04:34",
+          "maghrib": "07:11",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-01-02",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:08",
+          "zohor": "01:11",
+          "asar": "04:35",
+          "maghrib": "07:11",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-01-03",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:09",
+          "zohor": "01:11",
+          "asar": "04:35",
+          "maghrib": "07:12",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-01-04",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:09",
+          "zohor": "01:12",
+          "asar": "04:35",
+          "maghrib": "07:12",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-01-05",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:09",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:12",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-01-06",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:47",
+          "syuruk": "07:10",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:13",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-01-07",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:47",
+          "syuruk": "07:10",
+          "zohor": "01:13",
+          "asar": "04:37",
+          "maghrib": "07:13",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-01-08",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:48",
+          "syuruk": "07:11",
+          "zohor": "01:13",
+          "asar": "04:37",
+          "maghrib": "07:14",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-01-09",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:48",
+          "syuruk": "07:11",
+          "zohor": "01:14",
+          "asar": "04:37",
+          "maghrib": "07:14",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-01-10",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:49",
+          "syuruk": "07:11",
+          "zohor": "01:14",
+          "asar": "04:38",
+          "maghrib": "07:15",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-01-11",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:49",
+          "syuruk": "07:12",
+          "zohor": "01:15",
+          "asar": "04:38",
+          "maghrib": "07:15",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-01-12",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:50",
+          "syuruk": "07:12",
+          "zohor": "01:15",
+          "asar": "04:38",
+          "maghrib": "07:15",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-01-13",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:50",
+          "syuruk": "07:13",
+          "zohor": "01:15",
+          "asar": "04:39",
+          "maghrib": "07:16",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-01-14",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:51",
+          "syuruk": "07:13",
+          "zohor": "01:16",
+          "asar": "04:39",
+          "maghrib": "07:16",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-01-15",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:51",
+          "syuruk": "07:13",
+          "zohor": "01:16",
+          "asar": "04:39",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-01-16",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:51",
+          "syuruk": "07:14",
+          "zohor": "01:16",
+          "asar": "04:39",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-01-17",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:52",
+          "syuruk": "07:14",
+          "zohor": "01:17",
+          "asar": "04:40",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-01-18",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:52",
+          "syuruk": "07:14",
+          "zohor": "01:17",
+          "asar": "04:40",
+          "maghrib": "07:18",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-01-19",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:53",
+          "syuruk": "07:14",
+          "zohor": "01:17",
+          "asar": "04:40",
+          "maghrib": "07:18",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-01-20",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:53",
+          "syuruk": "07:15",
+          "zohor": "01:18",
+          "asar": "04:40",
+          "maghrib": "07:18",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-01-21",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:53",
+          "syuruk": "07:15",
+          "zohor": "01:18",
+          "asar": "04:40",
+          "maghrib": "07:18",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-01-22",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:54",
+          "syuruk": "07:15",
+          "zohor": "01:18",
+          "asar": "04:41",
+          "maghrib": "07:19",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-23",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:54",
+          "syuruk": "07:15",
+          "zohor": "01:18",
+          "asar": "04:41",
+          "maghrib": "07:19",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-24",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:41",
+          "maghrib": "07:19",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-25",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:41",
+          "maghrib": "07:20",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-26",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:41",
+          "maghrib": "07:20",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-27",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:41",
+          "maghrib": "07:20",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-28",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:41",
+          "maghrib": "07:20",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-29",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:20",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-01-30",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-01-31",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      }
+    ],
+    "February": [
+      {
+        "date": "2026-02-01",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-02",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-03",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-04",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-05",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:41",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-06",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:40",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-07",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:40",
+          "maghrib": "07:21",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-08",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:40",
+          "maghrib": "07:22",
+          "isyak": "08:33"
+        }
+      },
+      {
+        "date": "2026-02-09",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:40",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-10",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:21",
+          "asar": "04:40",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-11",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:39",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-12",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:39",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-13",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:39",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-14",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:38",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-15",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:38",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-16",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:38",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-17",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:37",
+          "maghrib": "07:22",
+          "isyak": "08:32"
+        }
+      },
+      {
+        "date": "2026-02-18",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:37",
+          "maghrib": "07:21",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-02-19",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:17",
+          "zohor": "01:20",
+          "asar": "04:36",
+          "maghrib": "07:22",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-02-20",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:16",
+          "zohor": "01:20",
+          "asar": "04:36",
+          "maghrib": "07:22",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-02-21",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:16",
+          "zohor": "01:20",
+          "asar": "04:35",
+          "maghrib": "07:22",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-02-22",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:16",
+          "zohor": "01:20",
+          "asar": "04:35",
+          "maghrib": "07:22",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-02-23",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:16",
+          "zohor": "01:20",
+          "asar": "04:34",
+          "maghrib": "07:22",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-02-24",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:34",
+          "maghrib": "07:22",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-02-25",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:16",
+          "zohor": "01:19",
+          "asar": "04:33",
+          "maghrib": "07:22",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-02-26",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:15",
+          "zohor": "01:19",
+          "asar": "04:33",
+          "maghrib": "07:22",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-02-27",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:15",
+          "zohor": "01:19",
+          "asar": "04:32",
+          "maghrib": "07:21",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-02-28",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:58",
+          "syuruk": "07:15",
+          "zohor": "01:19",
+          "asar": "04:31",
+          "maghrib": "07:21",
+          "isyak": "08:30"
+        }
+      }
+    ],
+    "March": [
+      {
+        "date": "2026-03-01",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:15",
+          "zohor": "01:18",
+          "asar": "04:31",
+          "maghrib": "07:21",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-03-02",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:14",
+          "zohor": "01:18",
+          "asar": "04:30",
+          "maghrib": "07:21",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-03-03",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:14",
+          "zohor": "01:18",
+          "asar": "04:29",
+          "maghrib": "07:21",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-03-04",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:14",
+          "zohor": "01:18",
+          "asar": "04:29",
+          "maghrib": "07:21",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-03-05",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:57",
+          "syuruk": "07:14",
+          "zohor": "01:18",
+          "asar": "04:28",
+          "maghrib": "07:20",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-03-06",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:13",
+          "zohor": "01:17",
+          "asar": "04:27",
+          "maghrib": "07:20",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-03-07",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:13",
+          "zohor": "01:17",
+          "asar": "04:26",
+          "maghrib": "07:20",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-03-08",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:13",
+          "zohor": "01:17",
+          "asar": "04:26",
+          "maghrib": "07:20",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-03-09",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:56",
+          "syuruk": "07:13",
+          "zohor": "01:17",
+          "asar": "04:25",
+          "maghrib": "07:20",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-03-10",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:12",
+          "zohor": "01:16",
+          "asar": "04:24",
+          "maghrib": "07:19",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-03-11",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:12",
+          "zohor": "01:16",
+          "asar": "04:23",
+          "maghrib": "07:19",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-03-12",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:12",
+          "zohor": "01:16",
+          "asar": "04:22",
+          "maghrib": "07:19",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-03-13",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:55",
+          "syuruk": "07:11",
+          "zohor": "01:16",
+          "asar": "04:21",
+          "maghrib": "07:19",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-03-14",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:54",
+          "syuruk": "07:11",
+          "zohor": "01:15",
+          "asar": "04:20",
+          "maghrib": "07:18",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-03-15",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:54",
+          "syuruk": "07:11",
+          "zohor": "01:15",
+          "asar": "04:19",
+          "maghrib": "07:18",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-03-16",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:54",
+          "syuruk": "07:10",
+          "zohor": "01:15",
+          "asar": "04:18",
+          "maghrib": "07:18",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-03-17",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:53",
+          "syuruk": "07:10",
+          "zohor": "01:14",
+          "asar": "04:18",
+          "maghrib": "07:18",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-03-18",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:53",
+          "syuruk": "07:10",
+          "zohor": "01:14",
+          "asar": "04:17",
+          "maghrib": "07:17",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-03-19",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:53",
+          "syuruk": "07:09",
+          "zohor": "01:14",
+          "asar": "04:16",
+          "maghrib": "07:17",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-03-20",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:52",
+          "syuruk": "07:09",
+          "zohor": "01:14",
+          "asar": "04:14",
+          "maghrib": "07:17",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-03-21",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:52",
+          "syuruk": "07:09",
+          "zohor": "01:13",
+          "asar": "04:13",
+          "maghrib": "07:16",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-03-22",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:52",
+          "syuruk": "07:08",
+          "zohor": "01:13",
+          "asar": "04:12",
+          "maghrib": "07:15",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-03-23",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:51",
+          "syuruk": "07:08",
+          "zohor": "01:13",
+          "asar": "04:12",
+          "maghrib": "07:15",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-03-24",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:51",
+          "syuruk": "07:08",
+          "zohor": "01:12",
+          "asar": "04:12",
+          "maghrib": "07:15",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-03-25",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:51",
+          "syuruk": "07:07",
+          "zohor": "01:12",
+          "asar": "04:13",
+          "maghrib": "07:15",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-03-26",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:50",
+          "syuruk": "07:07",
+          "zohor": "01:12",
+          "asar": "04:13",
+          "maghrib": "07:14",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-03-27",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:50",
+          "syuruk": "07:07",
+          "zohor": "01:11",
+          "asar": "04:14",
+          "maghrib": "07:14",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-03-28",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:50",
+          "syuruk": "07:06",
+          "zohor": "01:11",
+          "asar": "04:14",
+          "maghrib": "07:14",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-03-29",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:49",
+          "syuruk": "07:06",
+          "zohor": "01:11",
+          "asar": "04:15",
+          "maghrib": "07:13",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-03-30",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:49",
+          "syuruk": "07:06",
+          "zohor": "01:11",
+          "asar": "04:15",
+          "maghrib": "07:13",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-03-31",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:48",
+          "syuruk": "07:05",
+          "zohor": "01:10",
+          "asar": "04:15",
+          "maghrib": "07:13",
+          "isyak": "08:22"
+        }
+      }
+    ],
+    "April": [
+      {
+        "date": "2026-04-01",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:48",
+          "syuruk": "07:05",
+          "zohor": "01:10",
+          "asar": "04:16",
+          "maghrib": "07:13",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-04-02",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:48",
+          "syuruk": "07:05",
+          "zohor": "01:10",
+          "asar": "04:16",
+          "maghrib": "07:12",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-04-03",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:47",
+          "syuruk": "07:04",
+          "zohor": "01:09",
+          "asar": "04:16",
+          "maghrib": "07:12",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-04-04",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:47",
+          "syuruk": "07:04",
+          "zohor": "01:09",
+          "asar": "04:17",
+          "maghrib": "07:12",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-04-05",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:47",
+          "syuruk": "07:04",
+          "zohor": "01:09",
+          "asar": "04:17",
+          "maghrib": "07:12",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-04-06",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:03",
+          "zohor": "01:09",
+          "asar": "04:17",
+          "maghrib": "07:11",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-04-07",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:03",
+          "zohor": "01:08",
+          "asar": "04:18",
+          "maghrib": "07:11",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-08",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:03",
+          "zohor": "01:08",
+          "asar": "04:18",
+          "maghrib": "07:11",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-09",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:03",
+          "zohor": "01:08",
+          "asar": "04:18",
+          "maghrib": "07:11",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-10",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:02",
+          "zohor": "01:07",
+          "asar": "04:18",
+          "maghrib": "07:10",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-11",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:02",
+          "zohor": "01:07",
+          "asar": "04:19",
+          "maghrib": "07:10",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-12",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:02",
+          "zohor": "01:07",
+          "asar": "04:19",
+          "maghrib": "07:10",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-13",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:01",
+          "zohor": "01:07",
+          "asar": "04:19",
+          "maghrib": "07:10",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-04-14",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:01",
+          "zohor": "01:06",
+          "asar": "04:19",
+          "maghrib": "07:10",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-15",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:01",
+          "zohor": "01:06",
+          "asar": "04:20",
+          "maghrib": "07:09",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-16",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:01",
+          "zohor": "01:06",
+          "asar": "04:20",
+          "maghrib": "07:09",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-17",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:00",
+          "zohor": "01:06",
+          "asar": "04:20",
+          "maghrib": "07:09",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-18",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:00",
+          "zohor": "01:05",
+          "asar": "04:20",
+          "maghrib": "07:09",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-19",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:00",
+          "zohor": "01:05",
+          "asar": "04:20",
+          "maghrib": "07:09",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-20",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:00",
+          "zohor": "01:05",
+          "asar": "04:21",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-21",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "06:59",
+          "zohor": "01:05",
+          "asar": "04:21",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-22",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:59",
+          "zohor": "01:05",
+          "asar": "04:21",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-23",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:59",
+          "zohor": "01:05",
+          "asar": "04:21",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-24",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:59",
+          "zohor": "01:04",
+          "asar": "04:21",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-25",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:22",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-26",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:22",
+          "maghrib": "07:08",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-04-27",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:22",
+          "maghrib": "07:08",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-04-28",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:22",
+          "maghrib": "07:07",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-04-29",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:22",
+          "maghrib": "07:07",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-04-30",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:58",
+          "zohor": "01:03",
+          "asar": "04:22",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      }
+    ],
+    "May": [
+      {
+        "date": "2026-05-01",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:23",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-02",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:23",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-03",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:23",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-04",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:23",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-05",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:23",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-06",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:24",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-07",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:24",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-08",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:24",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-09",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:24",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-10",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:24",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-11",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:24",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-12",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:25",
+          "maghrib": "07:07",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-05-13",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:25",
+          "maghrib": "07:07",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-05-14",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:25",
+          "maghrib": "07:07",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-05-15",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:25",
+          "maghrib": "07:07",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-05-16",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:25",
+          "maghrib": "07:07",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-05-17",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:26",
+          "maghrib": "07:07",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-05-18",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:26",
+          "maghrib": "07:07",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-05-19",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:26",
+          "maghrib": "07:07",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-05-20",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:26",
+          "maghrib": "07:07",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-05-21",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:56",
+          "zohor": "01:03",
+          "asar": "04:26",
+          "maghrib": "07:07",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-05-22",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:07",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-05-23",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:08",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-05-24",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:08",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-05-25",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:08",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-05-26",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:08",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-05-27",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:04",
+          "asar": "04:28",
+          "maghrib": "07:08",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-05-28",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:04",
+          "asar": "04:28",
+          "maghrib": "07:08",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-05-29",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:04",
+          "asar": "04:28",
+          "maghrib": "07:08",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-05-30",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:04",
+          "asar": "04:28",
+          "maghrib": "07:09",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-05-31",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:04",
+          "asar": "04:29",
+          "maghrib": "07:09",
+          "isyak": "08:23"
+        }
+      }
+    ],
+    "June": [
+      {
+        "date": "2026-06-01",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:29",
+          "maghrib": "07:09",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-06-02",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:58",
+          "zohor": "01:04",
+          "asar": "04:29",
+          "maghrib": "07:09",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-06-03",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:58",
+          "zohor": "01:05",
+          "asar": "04:29",
+          "maghrib": "07:09",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-06-04",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:58",
+          "zohor": "01:05",
+          "asar": "04:29",
+          "maghrib": "07:09",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-06-05",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:58",
+          "zohor": "01:05",
+          "asar": "04:30",
+          "maghrib": "07:10",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-06-06",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:58",
+          "zohor": "01:05",
+          "asar": "04:30",
+          "maghrib": "07:10",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-06-07",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:59",
+          "zohor": "01:05",
+          "asar": "04:30",
+          "maghrib": "07:10",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-06-08",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:59",
+          "zohor": "01:06",
+          "asar": "04:30",
+          "maghrib": "07:10",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-06-09",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:59",
+          "zohor": "01:06",
+          "asar": "04:31",
+          "maghrib": "07:10",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-06-10",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:59",
+          "zohor": "01:06",
+          "asar": "04:31",
+          "maghrib": "07:11",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-06-11",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:59",
+          "zohor": "01:06",
+          "asar": "04:31",
+          "maghrib": "07:11",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-06-12",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:59",
+          "zohor": "01:06",
+          "asar": "04:31",
+          "maghrib": "07:11",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-06-13",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:00",
+          "zohor": "01:07",
+          "asar": "04:32",
+          "maghrib": "07:11",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-06-14",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:00",
+          "zohor": "01:07",
+          "asar": "04:32",
+          "maghrib": "07:12",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-06-15",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:00",
+          "zohor": "01:07",
+          "asar": "04:32",
+          "maghrib": "07:12",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-06-16",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:00",
+          "zohor": "01:07",
+          "asar": "04:32",
+          "maghrib": "07:12",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-06-17",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:01",
+          "zohor": "01:07",
+          "asar": "04:33",
+          "maghrib": "07:12",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-06-18",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "07:01",
+          "zohor": "01:08",
+          "asar": "04:33",
+          "maghrib": "07:12",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-06-19",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "07:01",
+          "zohor": "01:08",
+          "asar": "04:33",
+          "maghrib": "07:13",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-06-20",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "07:01",
+          "zohor": "01:08",
+          "asar": "04:33",
+          "maghrib": "07:13",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-06-21",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "07:01",
+          "zohor": "01:08",
+          "asar": "04:33",
+          "maghrib": "07:13",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-06-22",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:09",
+          "asar": "04:34",
+          "maghrib": "07:13",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-06-23",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:09",
+          "asar": "04:34",
+          "maghrib": "07:13",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-06-24",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:09",
+          "asar": "04:34",
+          "maghrib": "07:14",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-06-25",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:09",
+          "asar": "04:34",
+          "maghrib": "07:14",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-06-26",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:09",
+          "asar": "04:34",
+          "maghrib": "07:14",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-06-27",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "07:03",
+          "zohor": "01:10",
+          "asar": "04:35",
+          "maghrib": "07:14",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-06-28",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "07:03",
+          "zohor": "01:10",
+          "asar": "04:35",
+          "maghrib": "07:14",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-06-29",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "07:03",
+          "zohor": "01:10",
+          "asar": "04:35",
+          "maghrib": "07:15",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-06-30",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "07:03",
+          "zohor": "01:10",
+          "asar": "04:35",
+          "maghrib": "07:15",
+          "isyak": "08:30"
+        }
+      }
+    ],
+    "July": [
+      {
+        "date": "2026-07-01",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "07:04",
+          "zohor": "01:10",
+          "asar": "04:35",
+          "maghrib": "07:15",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-02",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "07:04",
+          "zohor": "01:11",
+          "asar": "04:35",
+          "maghrib": "07:15",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-03",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "07:04",
+          "zohor": "01:11",
+          "asar": "04:36",
+          "maghrib": "07:15",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-04",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "07:04",
+          "zohor": "01:11",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-05",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:04",
+          "zohor": "01:11",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-06",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:04",
+          "zohor": "01:11",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-07",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:05",
+          "zohor": "01:11",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-08",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:05",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-09",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:05",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-10",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:05",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:16",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-11",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:05",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-12",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:05",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-13",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-14",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-15",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-16",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-17",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-18",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-19",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-20",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-21",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-22",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:31"
+        }
+      },
+      {
+        "date": "2026-07-23",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-24",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-25",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:36",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-26",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:35",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-27",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:07",
+          "zohor": "01:13",
+          "asar": "04:35",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-28",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:07",
+          "zohor": "01:13",
+          "asar": "04:35",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-29",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:35",
+          "maghrib": "07:17",
+          "isyak": "08:30"
+        }
+      },
+      {
+        "date": "2026-07-30",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:35",
+          "maghrib": "07:17",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-07-31",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:34",
+          "maghrib": "07:17",
+          "isyak": "08:29"
+        }
+      }
+    ],
+    "August": [
+      {
+        "date": "2026-08-01",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:34",
+          "maghrib": "07:17",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-08-02",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:13",
+          "asar": "04:34",
+          "maghrib": "07:17",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-08-03",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:33",
+          "maghrib": "07:16",
+          "isyak": "08:29"
+        }
+      },
+      {
+        "date": "2026-08-04",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:33",
+          "maghrib": "07:16",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-08-05",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:33",
+          "maghrib": "07:16",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-08-06",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:32",
+          "maghrib": "07:16",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-08-07",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:32",
+          "maghrib": "07:16",
+          "isyak": "08:28"
+        }
+      },
+      {
+        "date": "2026-08-08",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:32",
+          "maghrib": "07:16",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-08-09",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:31",
+          "maghrib": "07:16",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-08-10",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:12",
+          "asar": "04:31",
+          "maghrib": "07:15",
+          "isyak": "08:27"
+        }
+      },
+      {
+        "date": "2026-08-11",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:06",
+          "zohor": "01:11",
+          "asar": "04:30",
+          "maghrib": "07:15",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-08-12",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:05",
+          "zohor": "01:11",
+          "asar": "04:30",
+          "maghrib": "07:15",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-08-13",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:05",
+          "zohor": "01:11",
+          "asar": "04:29",
+          "maghrib": "07:15",
+          "isyak": "08:26"
+        }
+      },
+      {
+        "date": "2026-08-14",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:05",
+          "zohor": "01:11",
+          "asar": "04:29",
+          "maghrib": "07:14",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-08-15",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:05",
+          "zohor": "01:11",
+          "asar": "04:28",
+          "maghrib": "07:14",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-08-16",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:05",
+          "zohor": "01:10",
+          "asar": "04:28",
+          "maghrib": "07:14",
+          "isyak": "08:25"
+        }
+      },
+      {
+        "date": "2026-08-17",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:05",
+          "zohor": "01:10",
+          "asar": "04:27",
+          "maghrib": "07:14",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-08-18",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:46",
+          "syuruk": "07:04",
+          "zohor": "01:10",
+          "asar": "04:27",
+          "maghrib": "07:13",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-08-19",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:04",
+          "zohor": "01:10",
+          "asar": "04:26",
+          "maghrib": "07:13",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-08-20",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:04",
+          "zohor": "01:10",
+          "asar": "04:25",
+          "maghrib": "07:13",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-08-21",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:04",
+          "zohor": "01:09",
+          "asar": "04:25",
+          "maghrib": "07:13",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-08-22",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:04",
+          "zohor": "01:09",
+          "asar": "04:24",
+          "maghrib": "07:12",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-08-23",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:03",
+          "zohor": "01:09",
+          "asar": "04:23",
+          "maghrib": "07:12",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-08-24",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:03",
+          "zohor": "01:08",
+          "asar": "04:23",
+          "maghrib": "07:12",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-08-25",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:03",
+          "zohor": "01:08",
+          "asar": "04:22",
+          "maghrib": "07:11",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-08-26",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:45",
+          "syuruk": "07:03",
+          "zohor": "01:08",
+          "asar": "04:21",
+          "maghrib": "07:11",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-08-27",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:02",
+          "zohor": "01:08",
+          "asar": "04:21",
+          "maghrib": "07:11",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-08-28",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:02",
+          "zohor": "01:07",
+          "asar": "04:20",
+          "maghrib": "07:10",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-08-29",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:02",
+          "zohor": "01:07",
+          "asar": "04:19",
+          "maghrib": "07:10",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-08-30",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:01",
+          "zohor": "01:07",
+          "asar": "04:18",
+          "maghrib": "07:10",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-08-31",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:01",
+          "zohor": "01:06",
+          "asar": "04:17",
+          "maghrib": "07:09",
+          "isyak": "08:19"
+        }
+      }
+    ],
+    "September": [
+      {
+        "date": "2026-09-01",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:01",
+          "zohor": "01:06",
+          "asar": "04:17",
+          "maghrib": "07:09",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-09-02",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:01",
+          "zohor": "01:06",
+          "asar": "04:16",
+          "maghrib": "07:09",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-09-03",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:00",
+          "zohor": "01:05",
+          "asar": "04:15",
+          "maghrib": "07:08",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-09-04",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:00",
+          "zohor": "01:05",
+          "asar": "04:14",
+          "maghrib": "07:08",
+          "isyak": "08:17"
+        }
+      },
+      {
+        "date": "2026-09-05",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:00",
+          "zohor": "01:05",
+          "asar": "04:13",
+          "maghrib": "07:08",
+          "isyak": "08:17"
+        }
+      },
+      {
+        "date": "2026-09-06",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "06:59",
+          "zohor": "01:04",
+          "asar": "04:12",
+          "maghrib": "07:07",
+          "isyak": "08:16"
+        }
+      },
+      {
+        "date": "2026-09-07",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "06:59",
+          "zohor": "01:04",
+          "asar": "04:11",
+          "maghrib": "07:07",
+          "isyak": "08:16"
+        }
+      },
+      {
+        "date": "2026-09-08",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "06:59",
+          "zohor": "01:04",
+          "asar": "04:10",
+          "maghrib": "07:06",
+          "isyak": "08:15"
+        }
+      },
+      {
+        "date": "2026-09-09",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "06:59",
+          "zohor": "01:03",
+          "asar": "04:09",
+          "maghrib": "07:06",
+          "isyak": "08:15"
+        }
+      },
+      {
+        "date": "2026-09-10",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "06:58",
+          "zohor": "01:03",
+          "asar": "04:08",
+          "maghrib": "07:06",
+          "isyak": "08:15"
+        }
+      },
+      {
+        "date": "2026-09-11",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "06:58",
+          "zohor": "01:03",
+          "asar": "04:07",
+          "maghrib": "07:05",
+          "isyak": "08:14"
+        }
+      },
+      {
+        "date": "2026-09-12",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "06:58",
+          "zohor": "01:02",
+          "asar": "04:06",
+          "maghrib": "07:05",
+          "isyak": "08:14"
+        }
+      },
+      {
+        "date": "2026-09-13",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:57",
+          "zohor": "01:02",
+          "asar": "04:05",
+          "maghrib": "07:05",
+          "isyak": "08:13"
+        }
+      },
+      {
+        "date": "2026-09-14",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:57",
+          "zohor": "01:02",
+          "asar": "04:04",
+          "maghrib": "07:04",
+          "isyak": "08:13"
+        }
+      },
+      {
+        "date": "2026-09-15",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:57",
+          "zohor": "01:01",
+          "asar": "04:03",
+          "maghrib": "07:04",
+          "isyak": "08:13"
+        }
+      },
+      {
+        "date": "2026-09-16",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "06:56",
+          "zohor": "01:01",
+          "asar": "04:02",
+          "maghrib": "07:03",
+          "isyak": "08:12"
+        }
+      },
+      {
+        "date": "2026-09-17",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "06:56",
+          "zohor": "01:01",
+          "asar": "04:01",
+          "maghrib": "07:03",
+          "isyak": "08:12"
+        }
+      },
+      {
+        "date": "2026-09-18",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "06:56",
+          "zohor": "01:00",
+          "asar": "04:00",
+          "maghrib": "07:03",
+          "isyak": "08:11"
+        }
+      },
+      {
+        "date": "2026-09-19",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "06:55",
+          "zohor": "01:00",
+          "asar": "03:59",
+          "maghrib": "07:02",
+          "isyak": "08:11"
+        }
+      },
+      {
+        "date": "2026-09-20",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:55",
+          "zohor": "12:59",
+          "asar": "04:00",
+          "maghrib": "07:02",
+          "isyak": "08:10"
+        }
+      },
+      {
+        "date": "2026-09-21",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:55",
+          "zohor": "12:59",
+          "asar": "04:00",
+          "maghrib": "07:01",
+          "isyak": "08:10"
+        }
+      },
+      {
+        "date": "2026-09-22",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "06:54",
+          "zohor": "12:59",
+          "asar": "04:00",
+          "maghrib": "07:01",
+          "isyak": "08:10"
+        }
+      },
+      {
+        "date": "2026-09-23",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:54",
+          "zohor": "12:58",
+          "asar": "04:01",
+          "maghrib": "07:01",
+          "isyak": "08:09"
+        }
+      },
+      {
+        "date": "2026-09-24",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:54",
+          "zohor": "12:58",
+          "asar": "04:01",
+          "maghrib": "07:00",
+          "isyak": "08:09"
+        }
+      },
+      {
+        "date": "2026-09-25",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "06:53",
+          "zohor": "12:58",
+          "asar": "04:01",
+          "maghrib": "07:00",
+          "isyak": "08:09"
+        }
+      },
+      {
+        "date": "2026-09-26",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:53",
+          "zohor": "12:57",
+          "asar": "04:02",
+          "maghrib": "06:59",
+          "isyak": "08:08"
+        }
+      },
+      {
+        "date": "2026-09-27",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:53",
+          "zohor": "12:57",
+          "asar": "04:02",
+          "maghrib": "06:59",
+          "isyak": "08:08"
+        }
+      },
+      {
+        "date": "2026-09-28",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:53",
+          "zohor": "12:57",
+          "asar": "04:02",
+          "maghrib": "06:59",
+          "isyak": "08:07"
+        }
+      },
+      {
+        "date": "2026-09-29",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:52",
+          "zohor": "12:56",
+          "asar": "04:03",
+          "maghrib": "06:58",
+          "isyak": "08:07"
+        }
+      },
+      {
+        "date": "2026-09-30",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:52",
+          "zohor": "12:56",
+          "asar": "04:03",
+          "maghrib": "06:58",
+          "isyak": "08:07"
+        }
+      }
+    ],
+    "October": [
+      {
+        "date": "2026-10-01",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:52",
+          "zohor": "12:56",
+          "asar": "04:03",
+          "maghrib": "06:58",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-10-02",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:51",
+          "zohor": "12:55",
+          "asar": "04:03",
+          "maghrib": "06:57",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-10-03",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:51",
+          "zohor": "12:55",
+          "asar": "04:04",
+          "maghrib": "06:57",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-10-04",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:51",
+          "zohor": "12:55",
+          "asar": "04:04",
+          "maghrib": "06:57",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-10-05",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:51",
+          "zohor": "12:54",
+          "asar": "04:04",
+          "maghrib": "06:56",
+          "isyak": "08:05"
+        }
+      },
+      {
+        "date": "2026-10-06",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:33",
+          "syuruk": "06:50",
+          "zohor": "12:54",
+          "asar": "04:04",
+          "maghrib": "06:56",
+          "isyak": "08:05"
+        }
+      },
+      {
+        "date": "2026-10-07",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:33",
+          "syuruk": "06:50",
+          "zohor": "12:54",
+          "asar": "04:05",
+          "maghrib": "06:56",
+          "isyak": "08:05"
+        }
+      },
+      {
+        "date": "2026-10-08",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:33",
+          "syuruk": "06:50",
+          "zohor": "12:54",
+          "asar": "04:05",
+          "maghrib": "06:55",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-10-09",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:32",
+          "syuruk": "06:50",
+          "zohor": "12:53",
+          "asar": "04:05",
+          "maghrib": "06:55",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-10-10",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:32",
+          "syuruk": "06:49",
+          "zohor": "12:53",
+          "asar": "04:05",
+          "maghrib": "06:55",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-10-11",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:32",
+          "syuruk": "06:49",
+          "zohor": "12:53",
+          "asar": "04:05",
+          "maghrib": "06:54",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-10-12",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:49",
+          "zohor": "12:53",
+          "asar": "04:06",
+          "maghrib": "06:54",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:49",
+          "zohor": "12:52",
+          "asar": "04:06",
+          "maghrib": "06:54",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-10-14",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:48",
+          "zohor": "12:52",
+          "asar": "04:06",
+          "maghrib": "06:54",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-10-15",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:48",
+          "zohor": "12:52",
+          "asar": "04:06",
+          "maghrib": "06:53",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-10-16",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:48",
+          "zohor": "12:52",
+          "asar": "04:06",
+          "maghrib": "06:53",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-10-17",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:07",
+          "maghrib": "06:53",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-10-18",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:07",
+          "maghrib": "06:53",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-19",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:07",
+          "maghrib": "06:53",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-20",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:47",
+          "zohor": "12:51",
+          "asar": "04:07",
+          "maghrib": "06:52",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-21",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:47",
+          "zohor": "12:51",
+          "asar": "04:07",
+          "maghrib": "06:52",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-22",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:47",
+          "zohor": "12:51",
+          "asar": "04:07",
+          "maghrib": "06:52",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-23",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:47",
+          "zohor": "12:51",
+          "asar": "04:08",
+          "maghrib": "06:52",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-24",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:08",
+          "maghrib": "06:52",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-25",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:08",
+          "maghrib": "06:52",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-26",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:08",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-27",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:08",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-28",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:09",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-29",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:09",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-30",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:09",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-10-31",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:09",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      }
+    ],
+    "November": [
+      {
+        "date": "2026-11-01",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:09",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-11-02",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:10",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-11-03",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:10",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-11-04",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:10",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:10",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-11-06",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:11",
+          "maghrib": "06:51",
+          "isyak": "08:02"
+        }
+      },
+      {
+        "date": "2026-11-07",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:11",
+          "maghrib": "06:51",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-11-08",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:11",
+          "maghrib": "06:51",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-11-09",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:11",
+          "maghrib": "06:51",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-11-10",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:12",
+          "maghrib": "06:51",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-11-11",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:47",
+          "zohor": "12:50",
+          "asar": "04:12",
+          "maghrib": "06:51",
+          "isyak": "08:03"
+        }
+      },
+      {
+        "date": "2026-11-12",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:12",
+          "maghrib": "06:51",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-11-13",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:13",
+          "maghrib": "06:51",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-11-14",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:13",
+          "maghrib": "06:52",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-11-15",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:13",
+          "maghrib": "06:52",
+          "isyak": "08:04"
+        }
+      },
+      {
+        "date": "2026-11-16",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:48",
+          "zohor": "12:51",
+          "asar": "04:13",
+          "maghrib": "06:52",
+          "isyak": "08:05"
+        }
+      },
+      {
+        "date": "2026-11-17",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:49",
+          "zohor": "12:51",
+          "asar": "04:14",
+          "maghrib": "06:52",
+          "isyak": "08:05"
+        }
+      },
+      {
+        "date": "2026-11-18",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:49",
+          "zohor": "12:52",
+          "asar": "04:14",
+          "maghrib": "06:52",
+          "isyak": "08:05"
+        }
+      },
+      {
+        "date": "2026-11-19",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:27",
+          "syuruk": "06:49",
+          "zohor": "12:52",
+          "asar": "04:14",
+          "maghrib": "06:52",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-11-20",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:49",
+          "zohor": "12:52",
+          "asar": "04:15",
+          "maghrib": "06:53",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-11-21",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:50",
+          "zohor": "12:52",
+          "asar": "04:15",
+          "maghrib": "06:53",
+          "isyak": "08:06"
+        }
+      },
+      {
+        "date": "2026-11-22",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:50",
+          "zohor": "12:53",
+          "asar": "04:16",
+          "maghrib": "06:53",
+          "isyak": "08:07"
+        }
+      },
+      {
+        "date": "2026-11-23",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:50",
+          "zohor": "12:53",
+          "asar": "04:16",
+          "maghrib": "06:53",
+          "isyak": "08:07"
+        }
+      },
+      {
+        "date": "2026-11-24",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:28",
+          "syuruk": "06:50",
+          "zohor": "12:53",
+          "asar": "04:16",
+          "maghrib": "06:54",
+          "isyak": "08:07"
+        }
+      },
+      {
+        "date": "2026-11-25",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:51",
+          "zohor": "12:53",
+          "asar": "04:17",
+          "maghrib": "06:54",
+          "isyak": "08:08"
+        }
+      },
+      {
+        "date": "2026-11-26",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:51",
+          "zohor": "12:54",
+          "asar": "04:17",
+          "maghrib": "06:54",
+          "isyak": "08:08"
+        }
+      },
+      {
+        "date": "2026-11-27",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:51",
+          "zohor": "12:54",
+          "asar": "04:17",
+          "maghrib": "06:55",
+          "isyak": "08:08"
+        }
+      },
+      {
+        "date": "2026-11-28",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:29",
+          "syuruk": "06:52",
+          "zohor": "12:54",
+          "asar": "04:18",
+          "maghrib": "06:55",
+          "isyak": "08:09"
+        }
+      },
+      {
+        "date": "2026-11-29",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:52",
+          "zohor": "12:55",
+          "asar": "04:18",
+          "maghrib": "06:55",
+          "isyak": "08:09"
+        }
+      },
+      {
+        "date": "2026-11-30",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:53",
+          "zohor": "12:55",
+          "asar": "04:19",
+          "maghrib": "06:56",
+          "isyak": "08:10"
+        }
+      }
+    ],
+    "December": [
+      {
+        "date": "2026-12-01",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:53",
+          "zohor": "12:56",
+          "asar": "04:19",
+          "maghrib": "06:56",
+          "isyak": "08:10"
+        }
+      },
+      {
+        "date": "2026-12-02",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:30",
+          "syuruk": "06:53",
+          "zohor": "12:56",
+          "asar": "04:20",
+          "maghrib": "06:56",
+          "isyak": "08:11"
+        }
+      },
+      {
+        "date": "2026-12-03",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:54",
+          "zohor": "12:56",
+          "asar": "04:20",
+          "maghrib": "06:57",
+          "isyak": "08:11"
+        }
+      },
+      {
+        "date": "2026-12-04",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:54",
+          "zohor": "12:57",
+          "asar": "04:20",
+          "maghrib": "06:57",
+          "isyak": "08:12"
+        }
+      },
+      {
+        "date": "2026-12-05",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:31",
+          "syuruk": "06:55",
+          "zohor": "12:57",
+          "asar": "04:21",
+          "maghrib": "06:58",
+          "isyak": "08:12"
+        }
+      },
+      {
+        "date": "2026-12-06",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:32",
+          "syuruk": "06:55",
+          "zohor": "12:58",
+          "asar": "04:21",
+          "maghrib": "06:58",
+          "isyak": "08:13"
+        }
+      },
+      {
+        "date": "2026-12-07",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:32",
+          "syuruk": "06:55",
+          "zohor": "12:58",
+          "asar": "04:22",
+          "maghrib": "06:58",
+          "isyak": "08:13"
+        }
+      },
+      {
+        "date": "2026-12-08",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:33",
+          "syuruk": "06:56",
+          "zohor": "12:58",
+          "asar": "04:22",
+          "maghrib": "06:59",
+          "isyak": "08:14"
+        }
+      },
+      {
+        "date": "2026-12-09",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:33",
+          "syuruk": "06:56",
+          "zohor": "12:59",
+          "asar": "04:23",
+          "maghrib": "06:59",
+          "isyak": "08:14"
+        }
+      },
+      {
+        "date": "2026-12-10",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:33",
+          "syuruk": "06:57",
+          "zohor": "12:59",
+          "asar": "04:23",
+          "maghrib": "07:00",
+          "isyak": "08:15"
+        }
+      },
+      {
+        "date": "2026-12-11",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:57",
+          "zohor": "01:00",
+          "asar": "04:24",
+          "maghrib": "07:00",
+          "isyak": "08:15"
+        }
+      },
+      {
+        "date": "2026-12-12",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:34",
+          "syuruk": "06:58",
+          "zohor": "01:00",
+          "asar": "04:24",
+          "maghrib": "07:01",
+          "isyak": "08:16"
+        }
+      },
+      {
+        "date": "2026-12-13",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:58",
+          "zohor": "01:01",
+          "asar": "04:25",
+          "maghrib": "07:01",
+          "isyak": "08:16"
+        }
+      },
+      {
+        "date": "2026-12-14",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:35",
+          "syuruk": "06:59",
+          "zohor": "01:01",
+          "asar": "04:25",
+          "maghrib": "07:02",
+          "isyak": "08:17"
+        }
+      },
+      {
+        "date": "2026-12-15",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "06:59",
+          "zohor": "01:02",
+          "asar": "04:26",
+          "maghrib": "07:02",
+          "isyak": "08:17"
+        }
+      },
+      {
+        "date": "2026-12-16",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:00",
+          "zohor": "01:02",
+          "asar": "04:26",
+          "maghrib": "07:03",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-12-17",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:36",
+          "syuruk": "07:00",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:03",
+          "isyak": "08:18"
+        }
+      },
+      {
+        "date": "2026-12-18",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "07:01",
+          "zohor": "01:03",
+          "asar": "04:27",
+          "maghrib": "07:04",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-12-19",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:37",
+          "syuruk": "07:01",
+          "zohor": "01:04",
+          "asar": "04:28",
+          "maghrib": "07:04",
+          "isyak": "08:19"
+        }
+      },
+      {
+        "date": "2026-12-20",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:04",
+          "asar": "04:28",
+          "maghrib": "07:05",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-12-21",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:38",
+          "syuruk": "07:02",
+          "zohor": "01:05",
+          "asar": "04:29",
+          "maghrib": "07:05",
+          "isyak": "08:20"
+        }
+      },
+      {
+        "date": "2026-12-22",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "07:03",
+          "zohor": "01:05",
+          "asar": "04:29",
+          "maghrib": "07:06",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-12-23",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:39",
+          "syuruk": "07:03",
+          "zohor": "01:06",
+          "asar": "04:30",
+          "maghrib": "07:06",
+          "isyak": "08:21"
+        }
+      },
+      {
+        "date": "2026-12-24",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "07:04",
+          "zohor": "01:06",
+          "asar": "04:30",
+          "maghrib": "07:07",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-12-25",
+        "day": "Fri",
+        "prayers": {
+          "subuh": "05:40",
+          "syuruk": "07:04",
+          "zohor": "01:07",
+          "asar": "04:31",
+          "maghrib": "07:07",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-12-26",
+        "day": "Sat",
+        "prayers": {
+          "subuh": "05:41",
+          "syuruk": "07:05",
+          "zohor": "01:07",
+          "asar": "04:31",
+          "maghrib": "07:08",
+          "isyak": "08:22"
+        }
+      },
+      {
+        "date": "2026-12-27",
+        "day": "Sun",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:05",
+          "zohor": "01:08",
+          "asar": "04:32",
+          "maghrib": "07:08",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-12-28",
+        "day": "Mon",
+        "prayers": {
+          "subuh": "05:42",
+          "syuruk": "07:06",
+          "zohor": "01:08",
+          "asar": "04:32",
+          "maghrib": "07:09",
+          "isyak": "08:23"
+        }
+      },
+      {
+        "date": "2026-12-29",
+        "day": "Tues",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:06",
+          "zohor": "01:09",
+          "asar": "04:33",
+          "maghrib": "07:09",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-12-30",
+        "day": "Wed",
+        "prayers": {
+          "subuh": "05:43",
+          "syuruk": "07:07",
+          "zohor": "01:09",
+          "asar": "04:33",
+          "maghrib": "07:10",
+          "isyak": "08:24"
+        }
+      },
+      {
+        "date": "2026-12-31",
+        "day": "Thurs",
+        "prayers": {
+          "subuh": "05:44",
+          "syuruk": "07:07",
+          "zohor": "01:10",
+          "asar": "04:34",
+          "maghrib": "07:10",
+          "isyak": "08:25"
+        }
+      }
+    ]
+  }
+}

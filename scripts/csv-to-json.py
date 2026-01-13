@@ -108,7 +108,7 @@ def validate_json_structure(json_data):
     }, indent=2, ensure_ascii=False))
 
 if __name__ == "__main__":
-    input_csv = "../2024/csv/prayer_times_2024.csv"
+    input_csv = "../2026/csv/prayer_times_2026.csv"
     output_json = "Expected.json"
     
     try:

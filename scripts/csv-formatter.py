@@ -103,7 +103,7 @@ def format_prayer_times(input_file, output_file):
     return df
 
 if __name__ == "__main__":
-    input_filename = "../2024/csv/prayer_times_2024.csv"
+    input_filename = "../2026/csv/prayer_times_2026.csv"
     output_filename = "Expected.csv"
     
     try:
