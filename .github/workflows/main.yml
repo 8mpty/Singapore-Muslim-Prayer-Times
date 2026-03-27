@@ -83,11 +83,32 @@ jobs:
       run: |
         git config --local user.name "${BOT_USERNAME}"
         git config --local user.email "${BOT_EMAIL}"
+        
+        git pull origin main --rebase || true
+        
         git add raw/
         git add ${{ github.event.inputs.year }}/
         git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -m "Add prayer times data for ${{ github.event.inputs.year }}"
-        git push origin main
+        
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Add prayer times data for ${{ github.event.inputs.year }}"
+          
+          for i in {1..3}; do
+            if git push origin main; then
+              echo "Successfully pushed to main branch"
+              break
+            else
+              echo "Push attempt $i failed, pulling latest changes"
+              git pull origin main --rebase
+              if [ $i -eq 3 ]; then
+                echo "Failed to push after 3 attempts"
+                exit 1
+              fi
+            fi
+          done
+        fi
     
     - name: Sync to WEB_BUILD branch
       run: |
@@ -100,6 +121,7 @@ jobs:
           echo "Branch ${WEB_BUILD} exists, checking it out"
           git fetch origin ${WEB_BUILD}
           git checkout ${WEB_BUILD}
+          git pull origin ${WEB_BUILD} --rebase || true
         else
           echo "Branch ${WEB_BUILD} does not exist, creating it"
           git checkout --orphan ${WEB_BUILD}
@@ -109,17 +131,26 @@ jobs:
         echo "Copying year folders from main branch"
         git checkout main -- [0-9][0-9][0-9][0-9]/
         
-        echo "Cleaning up unwanted files..."
+        echo "Cleaning up unwanted files"
         rm -rf scripts .github README.md raw .gitignore 2>/dev/null || true
-        
-        echo "Final structure:"
-        ls -la
         
         if git diff --quiet && git diff --staged --quiet; then
           echo "No changes to commit in ${WEB_BUILD} branch"
         else
           git add .
           git commit -m "Update year folders for ${{ github.event.inputs.year }}"
-          git push origin ${WEB_BUILD}
-          echo "Successfully updated ${WEB_BUILD} branch"
+          
+          for i in {1..3}; do
+            if git push origin ${WEB_BUILD}; then
+              echo "Successfully pushed to ${WEB_BUILD} branch"
+              break
+            else
+              echo "Push attempt $i failed, pulling latest changes"
+              git pull origin ${WEB_BUILD} --rebase
+              if [ $i -eq 3 ]; then
+                echo "Failed to push after 3 attempts"
+                exit 1
+              fi
+            fi
+          done
         fi
