@@ -128,24 +128,23 @@ jobs:
           git rm -rf . > /dev/null 2>&1 || true
         fi
         
-        echo "Copying year folders from main branch"
+        echo "Copying all year folders from main branch"
         
         git fetch origin main
         
         git checkout origin/main -- [0-9][0-9][0-9][0-9]/ 2>/dev/null || true
         
-        git checkout origin/main -- ${{ github.event.inputs.year }}/ 2>/dev/null || true
-        
         echo "Cleaning up unwanted files"
         rm -rf scripts .github README.md raw .gitignore 2>/dev/null || true
         
-
+        echo "Files in WEB_BUILD branch:"
+        ls -la
         
         if git diff --quiet && git diff --staged --quiet; then
           echo "No changes to commit in ${WEB_BUILD} branch"
         else
           git add .
-          git commit -m "Update year folders for ${{ github.event.inputs.year }}"
+          git commit -m "Update all year folders (including ${{ github.event.inputs.year }})"
           
           for i in {1..3}; do
             if git push origin ${WEB_BUILD}; then
