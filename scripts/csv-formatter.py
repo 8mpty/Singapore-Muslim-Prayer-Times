@@ -1,5 +1,7 @@
 import pandas as pd
 from datetime import datetime
+import sys
+import os
 
 def format_prayer_times(input_file, output_file):
     """
@@ -103,8 +105,15 @@ def format_prayer_times(input_file, output_file):
     return df
 
 if __name__ == "__main__":
-    input_filename = "../2026/csv/prayer_times_2026.csv"
-    output_filename = "Expected.csv"
+    if len(sys.argv) != 2:
+        print("Usage: python csv-formatter.py <year>")
+        sys.exit(1)
+    
+    year = sys.argv[1]
+    input_filename = f"../raw/MuslimPrayerTimetable{year}.csv"
+    output_filename = f"../{year}/csv/prayer_times_{year}.csv"
+    
+    os.makedirs(os.path.dirname(output_filename), exist_ok=True)
     
     try:
         result_df = format_prayer_times(input_filename, output_filename)

@@ -1,0 +1,80 @@
+name: Process Prayer Times Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Timetable Year'
+        required: true
+        type: string
+      download_link:
+        description: 'Download link for timetable (CSV Format Only)'
+        required: true
+        type: string
+    
+
+jobs:
+  process-prayer-times:
+    runs-on: ubuntu-latest
+
+    env:
+      BOT_USERNAME: ${{ secrets.BOT_USERNAME }}
+      BOT_EMAIL: ${{ secrets.BOT_EMAIL }}
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v6
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13.5'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/req
+    
+    - name: Create necessary directories
+      run: |
+        mkdir -p raw
+        mkdir -p ${{ github.event.inputs.year }}/csv
+        mkdir -p ${{ github.event.inputs.year }}/json
+    
+    - name: Download CSV file
+      run: |
+        echo "Downloading file from provided link..."
+        curl -L -o "raw/MuslimPrayerTimetable${{ github.event.inputs.year }}.csv" "${{ github.event.inputs.download_link }}"
+        echo "Downloaded file: raw/MuslimPrayerTimetable${{ github.event.inputs.year }}.csv"
+    
+    - name: Run CSV formatter
+      run: |
+        echo "Running CSV formatter..."
+        cd scripts
+        python csv-formatter.py ${{ github.event.inputs.year }}
+      env:
+        INPUT_YEAR: ${{ github.event.inputs.year }}
+    
+    - name: Run CSV to JSON converter
+      run: |
+        echo "Converting CSV to JSON..."
+        cd scripts
+        python csv-to-json.py ${{ github.event.inputs.year }}
+      env:
+        INPUT_YEAR: ${{ github.event.inputs.year }}
+    
+    - name: Verify generated files
+      run: |
+        echo "Verifying generated files..."
+        ls -la ${{ github.event.inputs.year }}/csv/
+        ls -la ${{ github.event.inputs.year }}/json/
+        echo "Files generated successfully"
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "${BOT_USERNAME}"
+        git config --local user.email "${BOT_EMAIL}"
+        git add raw/
+        git add ${{ github.event.inputs.year }}/
+        git diff --quiet && git diff --staged --quiet || git commit -m "Add prayer times data for ${{ github.event.inputs.year }}"
+        git push

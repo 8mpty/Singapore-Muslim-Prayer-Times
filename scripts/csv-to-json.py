@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 from datetime import datetime
+import sys
+import os
 
 def csv_to_json(csv_file, json_file):
     """
@@ -108,8 +110,15 @@ def validate_json_structure(json_data):
     }, indent=2, ensure_ascii=False))
 
 if __name__ == "__main__":
-    input_csv = "../2026/csv/prayer_times_2026.csv"
-    output_json = "Expected.json"
+    if len(sys.argv) != 2:
+        print("Usage: python csv-to-json.py <year>")
+        sys.exit(1)
+    
+    year = sys.argv[1]
+    input_csv = f"../{year}/csv/prayer_times_{year}.csv"
+    output_json = f"../{year}/json/prayer_times_{year}.json"
+    
+    os.makedirs(os.path.dirname(output_json), exist_ok=True)
     
     try:
         # Convert CSV to JSON
