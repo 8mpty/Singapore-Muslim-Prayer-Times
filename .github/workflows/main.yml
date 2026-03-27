@@ -23,6 +23,7 @@ jobs:
     env:
       BOT_USERNAME: ${{ secrets.BOT_USERNAME }}
       BOT_EMAIL: ${{ secrets.BOT_EMAIL }}
+      WEB_BUILD: ${{ secrets.WEB_BUILD }}
     
     steps:
     - name: Checkout repository
@@ -78,7 +79,7 @@ jobs:
         cd scripts
         python readme-updater.py ${{ github.event.inputs.year }} "${{ github.event.inputs.parent_link }}"
     
-    - name: Commit and push changes
+    - name: Commit and push changes to main branch
       run: |
         git config --local user.name "${BOT_USERNAME}"
         git config --local user.email "${BOT_EMAIL}"
@@ -86,4 +87,39 @@ jobs:
         git add ${{ github.event.inputs.year }}/
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "Add prayer times data for ${{ github.event.inputs.year }}"
-        git push
+        git push origin main
+    
+    - name: Sync to WEB_BUILD branch
+      run: |
+        git config --local user.name "${BOT_USERNAME}"
+        git config --local user.email "${BOT_EMAIL}"
+
+        echo "Syncing year folders to ${WEB_BUILD} branch"
+        
+        if git ls-remote --heads origin ${WEB_BUILD} | grep -q ${WEB_BUILD}; then
+          echo "Branch ${WEB_BUILD} exists, checking it out"
+          git fetch origin ${WEB_BUILD}
+          git checkout ${WEB_BUILD}
+        else
+          echo "Branch ${WEB_BUILD} does not exist, creating it"
+          git checkout --orphan ${WEB_BUILD}
+          git rm -rf . > /dev/null 2>&1 || true
+        fi
+        
+        echo "Copying year folders from main branch"
+        git checkout main -- [0-9][0-9][0-9][0-9]/
+        
+        echo "Cleaning up unwanted files..."
+        rm -rf scripts .github README.md raw .gitignore 2>/dev/null || true
+        
+        echo "Final structure:"
+        ls -la
+        
+        if git diff --quiet && git diff --staged --quiet; then
+          echo "No changes to commit in ${WEB_BUILD} branch"
+        else
+          git add .
+          git commit -m "Update year folders for ${{ github.event.inputs.year }}"
+          git push origin ${WEB_BUILD}
+          echo "Successfully updated ${WEB_BUILD} branch"
+        fi
