@@ -149,7 +149,7 @@ jobs:
           echo "No changes to commit in ${WEB_BUILD} branch"
         else
           git add .
-          git commit -m "Update all year folders (including ${{ github.event.inputs.year }})"
+          git commit -m "Update all year folders"
           
           for i in {1..3}; do
             if git push origin ${WEB_BUILD}; then
