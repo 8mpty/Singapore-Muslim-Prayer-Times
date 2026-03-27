@@ -24,6 +24,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v6
+      with:
+          fetch-depth: 0
+          token: ${{ secrets.TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v5
