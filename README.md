@@ -26,14 +26,5 @@ https://data.gov.sg/datasets/d_e81ea2337599b674c4f645c1af93e0dc/view
 ```
 
 </details>
-
-<details>
-<summary>2026</summary>
-
-```
-Muslim Prayer Timetable 2026 (2026) [Dataset]. data.gov.sg. 
-https://data.gov.sg/datasets/d_d441e7242e78efc566024dd5b0d9829c/view
-```
-
-</details>
+s
 </p>
