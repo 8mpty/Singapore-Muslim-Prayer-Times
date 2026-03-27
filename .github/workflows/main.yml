@@ -11,7 +11,10 @@ on:
         description: 'Download link for timetable (CSV Format Only)'
         required: true
         type: string
-    
+      parent_link:
+        description: 'Parent dataset link (e.g. https://data.gov.sg/datasets/d_xxx/view)'
+        required: true
+        type: string
 
 jobs:
   process-prayer-times:
@@ -52,26 +55,28 @@ jobs:
     
     - name: Run CSV formatter
       run: |
-        echo "Running CSV formatter..."
+        echo "Running CSV formatter"
         cd scripts
         python csv-formatter.py ${{ github.event.inputs.year }}
-      env:
-        INPUT_YEAR: ${{ github.event.inputs.year }}
     
     - name: Run CSV to JSON converter
       run: |
-        echo "Converting CSV to JSON..."
+        echo "Converting CSV to JSON"
         cd scripts
         python csv-to-json.py ${{ github.event.inputs.year }}
-      env:
-        INPUT_YEAR: ${{ github.event.inputs.year }}
     
     - name: Verify generated files
       run: |
-        echo "Verifying generated files..."
+        echo "Verifying generated files"
         ls -la ${{ github.event.inputs.year }}/csv/
         ls -la ${{ github.event.inputs.year }}/json/
         echo "Files generated successfully"
+    
+    - name: Update README.md
+      run: |
+        echo "Updating README.md with citation for ${{ github.event.inputs.year }}..."
+        cd scripts
+        python readme-updater.py ${{ github.event.inputs.year }} "${{ github.event.inputs.parent_link }}"
     
     - name: Commit and push changes
       run: |
@@ -79,5 +84,6 @@ jobs:
         git config --local user.email "${BOT_EMAIL}"
         git add raw/
         git add ${{ github.event.inputs.year }}/
+        git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "Add prayer times data for ${{ github.event.inputs.year }}"
         git push
